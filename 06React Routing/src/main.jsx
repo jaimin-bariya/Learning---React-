@@ -59,7 +59,8 @@ const router = createBrowserRouter(
     </Route>
 
 
-  )
+  ),
+  {basename: "/React-Routing-Demo"}
 
 )
 
